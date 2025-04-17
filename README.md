@@ -1,4 +1,4 @@
-![image alt]([image_url](https://github.com/ibrarkhan6834/ibrarkhan6834/blob/6777d5b6891bdbd391c02093b793fbf84757465f/png.jpg))
+![image alt](https://raw.githubusercontent.com/ibrarkhan6834/ibrarkhan6834/6777d5b6891bdbd391c02093b793fbf84757465f/png.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Ibrar Brohi</h1>
