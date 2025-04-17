@@ -1,5 +1,6 @@
 
-![Main Cover](Main.png)
+![Main Cover](![png](https://github.com/user-attachments/assets/a61358c2-6942-4fa7-9f92-88affbcfbb09)
+)
 
 <h1 align="center">Hi 👋, I'm Ibrar Brohi</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan 🚀</h3>
