@@ -1,6 +1,5 @@
+![image alt]([image_url](https://github.com/ibrarkhan6834/ibrarkhan6834/blob/6777d5b6891bdbd391c02093b793fbf84757465f/png.jpg))
 
-![Main Cover](![png](https://github.com/user-attachments/assets/a61358c2-6942-4fa7-9f92-88affbcfbb09)
-)
 
 <h1 align="center">Hi 👋, I'm Ibrar Brohi</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan 🚀</h3>
